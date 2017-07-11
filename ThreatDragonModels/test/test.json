@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "owner",
+    "description": "lorum ipsum ..."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "reviewer"
+  }
+}
